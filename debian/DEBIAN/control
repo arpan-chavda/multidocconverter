@@ -1,0 +1,9 @@
+Package: mdconverter
+Version: 1.2
+Section: base
+Priority: optional
+Architecture: all
+Depends: yad, pandoc
+Maintainer: Arpan Chavda <codejarcc@gmail.com>
+Description: Document Conversion Utility
+ It converts multiple document format with each other.

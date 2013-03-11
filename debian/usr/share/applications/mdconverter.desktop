@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.2
+Name=MD Converter
+Comment=Document Conversion Utility
+GenericName=MDConverter
+Exec=/usr/bin/mdconverter
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=GNOME;Office;
