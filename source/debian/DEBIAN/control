@@ -1,6 +1,7 @@
 Package: mdconverter
 Version: 1.2
 Section: base
+Installed-Size: 32
 Priority: optional
 Architecture: all
 Depends: yad, pandoc
