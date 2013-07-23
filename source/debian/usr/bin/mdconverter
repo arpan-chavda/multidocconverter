@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/bash
 
 	YAD="yad --width=400 --height=200"
 	YADX="yad --width=230 --height=50"
